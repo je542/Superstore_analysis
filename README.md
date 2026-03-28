@@ -27,4 +27,4 @@ This project analyzes a retail Superstore dataset to discover sales trends, prof
 The analysis shows that product category, location, and discount strategies significantly affect profitability. Businesses should focus on high-performing products and carefully manage discount strategies.
 
 ## Author
-Areej Alsal
+Areej Alsalmi
